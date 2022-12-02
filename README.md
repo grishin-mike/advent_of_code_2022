@@ -1,2 +1,4 @@
-# advent_of_code_2022
-My solutions to the 2022 Advent of Code puzzles (Jupyter notebook).
+# Advent of code 2022
+
+My solutions to puzzles from the site [Advent of Code](https://adventofcode.com/)
+
